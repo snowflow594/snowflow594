@@ -10,7 +10,7 @@
 
 ---
 
-## what I do
+## What I do?
 
 I build software that makes information more useful — from AI-powered document systems to price monitoring dashboards. I'm drawn to the intersection of **search, language models, and practical web tools**.
 
@@ -20,7 +20,7 @@ I build software that makes information more useful — from AI-powered document
 
 ---
 
-## currently building
+## Currently building
 
 **[DocuQuery](https://github.com/snowflow594/docuquery)** — Upload any PDF and ask it questions in natural language. Built with FastAPI, pgvector, and Claude AI. Returns answers with source references.
 
@@ -28,14 +28,14 @@ I build software that makes information more useful — from AI-powered document
 
 ---
 
-## tools I reach for
+## Tools I reach for
 
 ```
 Languages     Python · TypeScript · JavaScript · C++ · C#
-Backend       FastAPI · PostgreSQL · pgvector · Supabase
+Backend       Spring Boot · JWT · REST API · FastAPI · PostgreSQL · Node.js · Supabase
 Frontend      React · Vite · Tailwind CSS
 AI/Search     Claude AI · fastembed · semantic search
-Deploy        Cloudflare Pages · Render · Docker
+Deploy        Vercel · Render · Docker · Railway · AWS
 ```
 
 ---
