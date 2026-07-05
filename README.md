@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=estefano&fontSize=64&fontColor=58A6FF&fontAlignY=42&desc=Ingeniería%20Informática%20·%20PUCP%20·%20Lima%2C%20Perú&descAlignY=62&descSize=17&descColor=7c8bb5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=Estefano&fontSize=64&fontColor=58A6FF&fontAlignY=42&desc=Ingeniería%20Informática%20·%20PUCP%20·%20Lima%2C%20Perú&descAlignY=62&descSize=17&descColor=7c8bb5)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=building+AI-powered+tools;semantic+search+%26+RAG+systems;backend+%2B+full-stack+dev;curious+by+default)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=building+AI-powered+tools;backend+%2B+full-stack+dev)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=snowflow594&style=flat-square&color=58A6FF&label=profile+views)
 
