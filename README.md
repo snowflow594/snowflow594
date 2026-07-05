@@ -40,7 +40,7 @@ Deploy        Vercel · Render · Docker · Railway · AWS
 
 ---
 
-## featured projects
+## Featured projects
 
 | project | what it does | stack |
 |---|---|---|
